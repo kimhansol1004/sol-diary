@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "name": "한솔",
+      "userId": "sol",
+      "userPwd": "0120",
+      "id": 1
+    }
+  ],
+  "diaries": [
+    {
+      "diaryDate": "2022-01-25",
+      "name": "부산여행",
+      "weather": "sunny",
+      "feeling": "happy",
+      "contents": "부산에 가면 브라켓테이블 소품샵 가기!!!",
+      "year": "2022",
+      "month": "1",
+      "day": "25",
+      "id": 1
+    }
+  ],
+  "schedules": [
+    {
+      "date": "2022-01-25",
+      "time": "18:00",
+      "name": "Project",
+      "contents": "Portfolio ppt 완성 하기",
+      "year": "2022",
+      "month": "1",
+      "day": "25",
+      "id": 1
+    },
+    {
+      "date": "2022-01-25",
+      "time": "09:00",
+      "name": "일정1",
+      "contents": "일정1",
+      "year": "2022",
+      "month": "1",
+      "day": "25",
+      "id": 2
+    }
+  ]
+}
